@@ -449,7 +449,7 @@ function Home() {
               whileHover={{ y: -5 }}
             >
               <div className="card h-100 border-0" style={{ 
-                backgroundColor: '#ff9eb7',
+                backgroundColor: 'tan',
                 boxShadow: '0 5px 15px rgba(255, 158, 183, 0.3)'
               }}>
                 <div className="card-body">
