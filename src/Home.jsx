@@ -16,12 +16,12 @@ function Home() {
       caption: "Professional Air Hostess"
     },
     {
-      image: "/plane.jpg",
+      image: "/hostess.png",
       alt: "Eliza Gathoni serving passengers",
       caption: "Exceptional Customer Service"
     },
     {
-      image: "/gathoni3.png",
+      image: "/gathoni8.png",
       alt: "Eliza Gathoni safety demonstration",
       caption: "Safety First Approach"
     }
