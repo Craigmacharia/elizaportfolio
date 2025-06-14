@@ -217,7 +217,7 @@ function Home() {
                   transition={{ duration: 0.3 }}
                 >
                   <img
-                    src="/gathoni.jpg"
+                    src="/gathoni6.png"
                     alt="Eliza Gathoni"
                     className="img-fluid rounded shadow"
                     style={{ 
