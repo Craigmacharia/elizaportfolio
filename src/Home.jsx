@@ -21,7 +21,7 @@ function Home() {
       caption: "Exceptional Customer Service"
     },
     {
-      image: "/gathoni8.png",
+      image: "/gathoni0.png",
       alt: "Eliza Gathoni safety demonstration",
       caption: "Safety First Approach"
     }
@@ -417,7 +417,7 @@ function Home() {
                 <div className="card-body text-white">
                   <FaInstagram className="mb-3" size={40} />
                   <h5>Instagram</h5>
-                  <a href="https://instagram.com/elizagathoni" className="stretched-link"></a>
+                  <a href="https://instagram.com/tazi.lh" className="stretched-link"></a>
                 </div>
               </div>
             </motion.div>
@@ -455,7 +455,7 @@ function Home() {
                 <div className="card-body">
                   <FaEnvelope className="mb-3" size={40} />
                   <h5>Email</h5>
-                  <a href="mailto:elizagathoni@example.com" className="stretched-link"></a>
+                  <a href="mailto:tazilhgathoni@gmail.com" className="stretched-link"></a>
                 </div>
               </div>
             </motion.div>
@@ -476,9 +476,9 @@ function Home() {
             transition={{ duration: 0.5 }}
           >
             <a href="https://wa.me/+254703495240" className="text-white mx-2"><FaWhatsapp size={20} /></a>
-            <a href="https://instagram.com/elizagathoni" className="text-white mx-2"><FaInstagram size={20} /></a>
+            <a href="https://instagram.com/@tazi.lh" className="text-white mx-2"><FaInstagram size={20} /></a>
             <a href="https://tiktok.com/@tazilh1" className="text-white mx-2"><FaTiktok size={20} /></a>
-            <a href="mailto:elizagathoni@example.com" className="text-white mx-2"><FaEnvelope size={20} /></a>
+            <a href="mailto:tazilhgathoni@gmail.com" className="text-white mx-2"><FaEnvelope size={20} /></a>
           </motion.div>
           <motion.small 
             style={{ color: '#bbbbbb' }}
