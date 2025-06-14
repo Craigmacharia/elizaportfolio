@@ -476,7 +476,7 @@ function Home() {
             transition={{ duration: 0.5 }}
           >
             <a href="https://wa.me/+254703495240" className="text-white mx-2"><FaWhatsapp size={20} /></a>
-            <a href="https://instagram.com/@tazi.lh" className="text-white mx-2"><FaInstagram size={20} /></a>
+            <a href="https://instagram.com/tazi.lh" className="text-white mx-2"><FaInstagram size={20} /></a>
             <a href="https://tiktok.com/@tazilh1" className="text-white mx-2"><FaTiktok size={20} /></a>
             <a href="mailto:tazilhgathoni@gmail.com" className="text-white mx-2"><FaEnvelope size={20} /></a>
           </motion.div>
